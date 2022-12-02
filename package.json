@@ -1,0 +1,13 @@
+{
+  "name": "aoc2022",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "sh scripts/test.sh"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
